@@ -39,8 +39,8 @@ const vis = ref(false)
             <div class="brand-item">
               <div>
                 <div class="icon-wrap">
-                  <img src="/brands/devbox.svg" alt="Devbox logo blur">
-                  <img src="/brands/devbox.svg" alt="Devbox logo">
+                  <img src="/brands/ptyxis.svg" alt="Ptyxis logo blur">
+                  <img src="/brands/ptyxis.svg" alt="Ptyxis logo">
                 </div>
               </div>
               <p>{{ LangDevsBoxTwo }}</p>
